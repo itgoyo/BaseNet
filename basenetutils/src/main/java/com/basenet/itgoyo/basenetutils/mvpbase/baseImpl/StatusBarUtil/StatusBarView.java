@@ -1,4 +1,4 @@
-package com.basenet.itgoyo.basenet.mvpbase.baseImpl.StatusBarUtil;
+package com.basenet.itgoyo.basenetutils.mvpbase.baseImpl.StatusBarUtil;
 
 import android.content.Context;
 import android.util.AttributeSet;

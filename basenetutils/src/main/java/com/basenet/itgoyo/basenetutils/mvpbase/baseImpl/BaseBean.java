@@ -1,4 +1,4 @@
-package com.basenet.itgoyo.basenet.mvpbase.baseImpl;
+package com.basenet.itgoyo.basenetutils.mvpbase.baseImpl;
 
 
 /*

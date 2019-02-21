@@ -1,9 +1,10 @@
-package com.basenet.itgoyo.basenet.mvpbase.baseImpl;
+package com.basenet.itgoyo.basenetutils.mvpbase.baseImpl;
 
 
 
-import com.basenet.itgoyo.basenet.mvpbase.BasePresenter;
-import com.basenet.itgoyo.basenet.mvpbase.BaseView;
+
+import com.basenet.itgoyo.basenetutils.mvpbase.BasePresenter;
+import com.basenet.itgoyo.basenetutils.mvpbase.BaseView;
 
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;

@@ -1,4 +1,4 @@
-package com.basenet.itgoyo.basenet.utils;
+package com.basenet.itgoyo.basenetutils.utils;
 
 import android.util.Log;
 

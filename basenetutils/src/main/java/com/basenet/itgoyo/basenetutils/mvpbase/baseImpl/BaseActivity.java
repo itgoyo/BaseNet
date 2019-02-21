@@ -1,4 +1,4 @@
-package com.basenet.itgoyo.basenet.mvpbase.baseImpl;
+package com.basenet.itgoyo.basenetutils.mvpbase.baseImpl;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -7,10 +7,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.basenet.itgoyo.basenet.R;
-import com.basenet.itgoyo.basenet.mvpbase.BasePresenter;
-import com.basenet.itgoyo.basenet.mvpbase.BaseView;
-import com.basenet.itgoyo.basenet.utils.ActivityManager;
+import com.basenet.itgoyo.basenetutils.R;
+import com.basenet.itgoyo.basenetutils.mvpbase.BasePresenter;
+import com.basenet.itgoyo.basenetutils.mvpbase.BaseView;
+import com.basenet.itgoyo.basenetutils.utils.ActivityManager;
 import com.gyf.barlibrary.ImmersionBar;
 
 /*

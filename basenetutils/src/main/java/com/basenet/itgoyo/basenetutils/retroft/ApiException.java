@@ -1,4 +1,4 @@
-package com.basenet.itgoyo.basenet.retroft;
+package com.basenet.itgoyo.basenetutils.retroft;
 
 /*
  * 项目名:    Pigeon

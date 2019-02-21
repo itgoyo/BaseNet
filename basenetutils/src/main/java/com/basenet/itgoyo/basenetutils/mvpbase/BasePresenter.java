@@ -1,4 +1,4 @@
-package com.basenet.itgoyo.basenet.mvpbase;
+package com.basenet.itgoyo.basenetutils.mvpbase;
 
 import io.reactivex.disposables.Disposable;
 

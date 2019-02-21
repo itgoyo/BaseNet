@@ -1,4 +1,4 @@
-package com.basenet.itgoyo.basenet.retroft;
+package com.basenet.itgoyo.basenetutils.retroft;
 
 import android.net.ParseException;
 import android.util.Log;

@@ -1,12 +1,12 @@
-package com.basenet.itgoyo.basenet.mvpbase.baseImpl;
+package com.basenet.itgoyo.basenetutils.mvpbase.baseImpl;
 
 import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 
-import com.zhon.baselib.mvpbase.BasePresenter;
-import com.zhon.baselib.mvpbase.BaseView;
+import com.basenet.itgoyo.basenetutils.mvpbase.BasePresenter;
+import com.basenet.itgoyo.basenetutils.mvpbase.BaseView;
 
 
 /*
